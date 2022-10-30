@@ -39,7 +39,10 @@ const Gallery = () => {
 
   </div>
 </div>
-    
+        <footer>
+  <h1>Link to Github:</h1>
+  <h1><a href="https://github.com/Punosuke/Creative-Project-3">HERE</a></h1>
+</footer>
 </div>
 
 
